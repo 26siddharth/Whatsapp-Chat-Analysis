@@ -24,3 +24,9 @@ A Streamlit-based web app that analyzes WhatsApp chat data.
 
 2. Run the app:
    streamlit run app.py
+
+## 🌐 Live Demo
+
+👉 https://whatsapp-chat-analysis-2026.streamlit.app/
+
+
